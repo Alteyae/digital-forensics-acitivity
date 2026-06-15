@@ -1,0 +1,35 @@
+MATH201 Discrete Mathematics - Homework Week 8
+Alex Rivera - Due April 9, 2026
+
+1. Prove that the sum of two even integers is even.
+Let a = 2m and b = 2n for integers m, n.
+a + b = 2m + 2n = 2(m + n)
+Since (m + n) is an integer, a + b is even. QED.
+
+2. Use induction to prove that 1 + 2 + 3 + ... + n = n(n+1)/2
+
+Base case: n = 1
+LHS = 1
+RHS = 1(2)/2 = 1 ✓
+
+Inductive step: Assume true for n = k, i.e., 1+2+...+k = k(k+1)/2
+Show true for n = k+1:
+1+2+...+k+(k+1) = k(k+1)/2 + (k+1)
+= (k+1)[k/2 + 1]
+= (k+1)(k+2)/2
+= (k+1)((k+1)+1)/2 ✓
+
+3. How many bit strings of length 8 contain exactly three 1s?
+C(8,3) = 8!/(3!5!) = 56
+
+4. In how many ways can we select a committee of 3 from 12 people?
+C(12,3) = 220
+
+5. What is the probability of getting exactly 2 heads in 5 coin flips?
+C(5,2) * (0.5)^2 * (0.5)^3 = 10 * (1/32) = 10/32 = 5/16 ≈ 0.3125
+
+6. [skipped - don't understand the graph theory part yet]
+Need to review lecture slides on Hamiltonian paths before attempting q6 and q7.
+Office hours Thursday?
+
+Grade: haven't got it back yet

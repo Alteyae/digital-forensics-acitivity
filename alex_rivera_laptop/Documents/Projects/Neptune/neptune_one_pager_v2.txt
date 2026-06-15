@@ -1,0 +1,55 @@
+NEPTUNE - Data Pipeline for Maritime Environmental Monitoring
+Developed by Rivera and Miller
+
+One-Page Overview | March 2026
+
+---
+
+WHAT IS NEPTUNE?
+
+Neptune is a modular, real-time data pipeline designed to ingest, process, and visualize environmental sensor data from maritime and waterway monitoring installations. Neptune is built for operators who need enterprise-grade reliability at small-operator cost.
+
+---
+
+CORE CAPABILITIES
+
+- Real-time ingestion via REST API and MQTT
+- Configurable data normalization and transformation rules
+- PostgreSQL time-series storage with full audit logging
+- Web dashboard for live visualization and threshold alerting
+- Role-based access control (admin / contributor / viewer)
+
+---
+
+CURRENT STATUS
+
+Version 0.4.0 (February 2026)
+Successfully tested with 10,000+ synthetic sensor payloads
+Core pipeline: stable
+Dashboard: functional prototype
+Authentication: session-based, JWT migration planned
+
+---
+
+POTENTIAL APPLICATIONS
+
+- Harbor water quality monitoring
+- Coastal temperature and salinity tracking
+- Flood warning sensor networks
+- Industrial wastewater discharge compliance monitoring
+
+---
+
+COMPETITIVE POSITIONING
+
+Neptune fills a gap between expensive enterprise platforms (ThinkingOcean, OceanIQ) and limited hobbyist solutions. It is API-first, lightweight, and deployable on minimal infrastructure.
+
+---
+
+CONTACT
+Jordan Miller: jmiller.dev@gmail.com
+Alex Rivera: alexrivera.student@gmail.com
+
+---
+
+[Note: Compare this document with original one-pager. "Developed by Rivera and Miller" was originally "Developed by Alex Rivera." - AR note May 12]

@@ -1,0 +1,85 @@
+RECYCLE BIN CONTENTS - FORENSIC RECORD
+Acquisition Date: May 18, 2026
+[Files listed with original path and deletion date]
+
+================================================================
+RECOVERABLE FILES
+================================================================
+
+File: collaboration_agreement_draft.txt
+Original path: C:\Users\AlexR\Documents\Projects\Neptune\collaboration_agreement_draft.txt
+Date deleted: March 15, 2026
+File size: 1.8 KB
+Status: Recoverable
+
+--- FILE CONTENTS (recovered) ---
+Neptune Project - Collaboration Agreement (INFORMAL DRAFT)
+Prepared by: Alex Rivera and Jordan Miller
+Date: January 31, 2026
+
+This is not a legal document. Just a record of what we agreed.
+
+1. Alex Rivera remains the primary architect and backend developer.
+   Alex's work predates this collaboration (project began June 2025).
+
+2. Jordan Miller joins as frontend/UI developer and product thinking.
+
+3. We share equal credit for ongoing contributions from Feb 2026 forward.
+
+4. We will discuss commercial arrangements (if any arise) together
+   and make decisions jointly.
+
+5. This does not address prior work. Alex's original contributions
+   (June 2025 - January 2026) are Alex's own.
+
+Signed: Alex Rivera [typed]
+Signed: Jordan Miller [typed]
+--- END RECOVERED FILE ---
+
+---
+
+File: weird_message_screenshot.png
+Original path: C:\Users\AlexR\Desktop\weird_message_screenshot.png
+Date deleted: May 16, 2026 (same day as creation)
+File size: 187 KB
+Status: Recoverable (image)
+
+--- IMAGE DESCRIPTION (recovered) ---
+Screenshot of an email. From address: [anonymized - ProtonMail account, username not memorable]
+To: alexrivera.student@gmail.com
+Subject: (no subject)
+Body: "You're doing the right thing. Be careful who you trust. Not everyone involved
+is acting in good faith. Don't meet anyone alone."
+Time received: May 15, 2026 9:47 PM
+--- END IMAGE DESCRIPTION ---
+
+---
+
+File: jordan_discord_march.txt
+Original path: C:\Users\AlexR\Documents\Personal\jordan_discord_march.txt
+Date deleted: April 30, 2026
+File size: 2.3 KB
+Status: Recoverable (partial)
+
+--- PARTIAL RECOVERY ---
+[text truncated - first portion recovered]
+...Discord log export, March 2026...
+Jordan [Mar 14 11:22 AM]: "so marcus is keen, he wants to move fast"
+Alex [Mar 14 11:29 AM]: "how fast"
+Jordan [Mar 14 11:31 AM]: "before summer ideally. he said he already has a term sheet drafted"
+Alex [Mar 14 11:35 AM]: "we haven't agreed to anything though"
+Jordan [Mar 14 11:38 AM]: "i know i know, it's just their side, we don't have to sign anything"
+Alex [Mar 14 11:42 AM]: "ok. when's the meeting?"
+Jordan [Mar 14 11:43 AM]: "Thursday the 19th, his office near the waterfront"
+[...rest of file unrecoverable...]
+--- END PARTIAL RECOVERY ---
+
+================================================================
+NON-RECOVERABLE FILES (metadata only)
+================================================================
+
+File: photo_christmas_2025.jpg | Deleted: Jan 8 2026 | 3.2 MB | OVERWRITTEN
+File: COMP220_exam_notes.txt | Deleted: Jan 8 2026 | 45 KB | OVERWRITTEN
+File: old_resume_2024.docx | Deleted: Feb 12 2026 | 88 KB | OVERWRITTEN
+File: spotify_playlist_export.txt | Deleted: Mar 3 2026 | 12 KB | OVERWRITTEN
+File: misc_screenshots (folder, 14 files) | Deleted: Jan 8 2026 | various | OVERWRITTEN

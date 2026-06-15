@@ -1,0 +1,62 @@
+CSS Quick Reference - personal cheatsheet
+(updated constantly, not for class)
+
+FLEXBOX:
+display: flex;
+flex-direction: row | column | row-reverse | column-reverse;
+justify-content: flex-start | flex-end | center | space-between | space-around;
+align-items: stretch | flex-start | flex-end | center | baseline;
+flex-wrap: nowrap | wrap | wrap-reverse;
+gap: 16px; /* space between items */
+
+GRID:
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: auto;
+grid-gap: 16px; /* or just gap: */
+grid-column: span 2; /* on child */
+
+CENTERING THINGS (the eternal struggle):
+/* Flexbox center */
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Absolute center */
+.child {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+MEDIA QUERIES:
+@media (max-width: 768px) { /* tablet */ }
+@media (max-width: 480px) { /* mobile */ }
+
+VARIABLES:
+:root {
+  --primary-color: #2563eb;
+  --font-size-base: 16px;
+}
+.element { color: var(--primary-color); }
+
+USEFUL SNIPPETS:
+/* Remove list styling */
+ul { list-style: none; padding: 0; margin: 0; }
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Box sizing reset - always include this */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* Responsive images */
+img { max-width: 100%; height: auto; }
+
+COLORS I like:
+Blue: #2563eb
+Slate dark: #1e293b
+Accent teal: #0d9488
+Light bg: #f8fafc

@@ -1,0 +1,44 @@
+FIREFOX BOOKMARKS EXPORT
+Profile: k7x2mq3f.default
+Export Date: [forensic acquisition]
+
+FOLDER: Toolbar
+  - University Portal | university.edu/student-portal
+  - Gmail | mail.google.com
+  - GitHub | github.com
+
+FOLDER: Dev Resources
+  - MDN Web Docs | developer.mozilla.org
+  - Stack Overflow | stackoverflow.com
+  - DevDocs | devdocs.io
+  - Node.js Docs | nodejs.org/en/docs
+  - PostgreSQL Docs | postgresql.org/docs
+  - npm | npmjs.com
+  - CSS Tricks | css-tricks.com
+  - Oh Shit Git | ohshitgit.com
+  - Regex101 | regex101.com
+
+FOLDER: School
+  - COMP318 Course Page | university.edu/courses/comp318
+  - COMP305 Course Page | university.edu/courses/comp305
+  - COMP210 Course Page | university.edu/courses/comp210
+  - Library Catalogue | library.university.edu
+  - Grade Portal | university.edu/portal/grades
+
+FOLDER: Reading Later [mostly unread]
+  - "So You Want to Be a Whistleblower" - EFF | eff.org/deeplinks/2021/07/so-you-want-be-whistleblower
+  - Open Source Licensing Explained | choosealicense.com/appendix
+  - "How Git Commit History Proves Authorship" - dev.to | dev.to/[ID]
+  - ACLU Know Your Rights - Digital Privacy | aclu.org/know-your-rights
+  - Harbor District Legal Aid | harbordistrictlegalaid.org
+  - Software Copyright for Developers | nolo.com
+
+FOLDER: Music/Entertainment
+  - Spotify | open.spotify.com
+  - YouTube | youtube.com
+  - SBS Food | sbs.com.au/food [recipes]
+
+FOLDER: Harbor Tech (added March 4)
+  - Harbor Tech Innovations | harbortechinnovations.com
+  - HarborSense Platform | harbortechinnovations.com/harborsense
+  - Marcus Tan LinkedIn | linkedin.com/in/marcus-tan-harbor

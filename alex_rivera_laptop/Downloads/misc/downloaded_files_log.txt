@@ -1,0 +1,33 @@
+DOWNLOADS FOLDER CONTENTS (representative list)
+[Forensic examiner note: actual binary files represented as log entries with metadata]
+
+--- INSTALLERS ---
+VSCode-win32-x64-1.87.2.exe | 97.3 MB | Downloaded: Jan 8 2026
+nodejs-v22.3.0-x64.msi | 31.6 MB | Downloaded: Jan 8 2026
+Git-2.44.0-64-bit.exe | 63.8 MB | Downloaded: Jan 8 2026 (reinstalled after system reset)
+Wireshark-4.2.3-x64.exe | 82.1 MB | Downloaded: Mar 9 2026
+VLC-3.0.21-win64.exe | 42.9 MB | Downloaded: Feb 14 2026
+7zip-24.01-x64.exe | 1.5 MB | Downloaded: Jan 15 2026
+draw.io-24.2.5.exe | 115.2 MB | Downloaded: Apr 3 2026
+obs-studio-30.1.2-windows-installer.exe | 213.7 MB | Downloaded: Mar 3 2026
+
+--- DOCUMENTS ---
+comp210_lab2_instructions.pdf | 1.2 MB | Downloaded: Mar 8 2026
+COMP305_assignment3_brief.pdf | 0.8 MB | Downloaded: Apr 1 2026
+discrete_math_rosen_solutions_ch5.pdf | 3.4 MB | Downloaded: Apr 20 2026
+IP_law_students_guide.pdf | 2.1 MB | Downloaded: Apr 8 2026
+open_source_licensing_explained.pdf | 0.9 MB | Downloaded: Apr 8 2026
+whistleblower_protections_guide_2025.pdf | 1.7 MB | Downloaded: May 3 2026
+software_copyright_FAQ.pdf | 0.6 MB | Downloaded: May 4 2026
+
+--- IMAGES ---
+campus_map_2026.jpg | 2.3 MB | Downloaded: Jan 5 2026
+meme_collection/ (folder) | various dates
+wallpaper_mountain_lake.jpg | 4.1 MB | Downloaded: Feb 2 2026
+
+--- RECEIPTS ---
+(see receipts subfolder)
+
+--- MISC ---
+neptune_v03_backup.zip | 14.7 MB | Downloaded/Created: Feb 28 2026 [local export]
+neptune_v04_backup.zip | 18.2 MB | Downloaded/Created: Apr 28 2026 [local export]

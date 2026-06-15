@@ -1,0 +1,26 @@
+Coastal Tech Hackathon - November 2025
+My notes
+
+Team: solo (registered as individual)
+Theme: "Smart Ocean" - sustainability and environmental monitoring tech
+
+Idea I pitched: live water quality dashboard for small harbor operators
+Basically a simplified version of what I'm doing with Neptune
+
+Did not win. Top 3:
+1st: Some team with an autonomous drone thing
+2nd: Beach cleanup gamification app (was actually cool)
+3rd: Algae bloom prediction ML model
+
+My project got "Honorable Mention - Technical Merit" which is something at least.
+
+Met a few people:
+- Priya (she's in my networking class, didn't realize she'd be here)
+- A guy called Jordan Miller who did a fintech thing - we chatted about data pipelines for a while
+  - He seemed smart, knows React well
+  - Mentioned he'd done an internship at some maritime tech startup last summer
+  - Gave me his Discord handle: jmill_dev
+
+Will probably not collaborate with him. Just a note in case.
+
+Good experience overall. Learned I need to improve my pitching, not just the technical side.

@@ -1,0 +1,27 @@
+General To-Do List (Desktop version - keep updated!)
+Last edited: May 16, 2026
+
+SCHOOL:
+[x] COMP305 Assignment 3 ER diagram
+[x] COMP210 midterm
+[ ] COMP318 final project - still working
+[ ] MATH201 homework week 10
+[ ] Study for COMP101 final (June 8)
+
+LIFE:
+[x] Renew bus pass
+[ ] Book dentist appointment (overdue)
+[ ] Return camping gear to Jamie
+[x] Cancel trial subscription before April 15
+[ ] Call mom (missed last Sunday)
+
+TECH / NEPTUNE:
+[x] Fix buffer latency bug
+[x] v0.4.0 milestone test
+[ ] Write project timeline summary document (IN PROGRESS)
+[ ] Transfer files to USB
+[ ] Contact Ren Calloway at Harbor District Legal Aid
+
+MISC:
+[ ] Find laptop battery replacement online
+[ ] Organise Downloads folder (embarrassing)

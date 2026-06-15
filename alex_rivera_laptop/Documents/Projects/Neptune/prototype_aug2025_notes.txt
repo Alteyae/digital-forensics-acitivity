@@ -1,0 +1,31 @@
+August 18, 2025 - v0.2.0 milestone achieved
+
+first real working version. it actually works end to end.
+
+what it does right now:
+- REST endpoint accepts POST with sensor payload JSON
+- validates format (required fields: sensor_id, timestamp, reading_type, value, unit)
+- normalises timestamp to UTC ISO 8601
+- applies transform rules (currently just unit conversion for temperature C/F)
+- writes to postgres - data_packets table
+- writes to audit_log table simultaneously
+- returns 201 with processed record ID
+
+tested with 1000 synthetic records today. all processed correctly.
+latency: avg 48ms per record (single thread, no optimisation yet)
+
+limitations:
+- no auth yet (localhost only right now)
+- no error recovery if DB connection drops
+- transform rules hardcoded (should be configurable)
+- no frontend at all yet
+
+but it WORKS. like, actually works. 7 weeks from first commit to working prototype.
+
+next steps:
+- add proper auth
+- configurable transform rules
+- start on the REST API docs
+- think about where this could go
+
+this is the furthest i've gotten on a personal project. feeling good.

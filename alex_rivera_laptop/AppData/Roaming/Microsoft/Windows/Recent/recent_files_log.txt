@@ -1,0 +1,24 @@
+WINDOWS RECENT FILES - Jump List Record
+Forensic acquisition: May 18, 2026
+Source: %APPDATA%\Microsoft\Windows\Recent\
+
+Most recently accessed files (sorted by last access, most recent first):
+
+1. may_2026.txt | Last accessed: May 17, 2026 6:44 PM | Path: Documents\Personal\Journal\
+2. TODO_general.txt | Last accessed: May 17, 2026 6:31 PM | Path: Desktop\
+3. neptune_documentation [folder] | Last accessed: May 16, 2026 11:48 PM
+4. email_drafts.txt | Last accessed: May 16, 2026 11:52 PM | Path: Documents\Personal\
+5. git_log_export.txt | Last accessed: May 16, 2026 10:05 PM | Path: Documents\Projects\Neptune\
+6. sticky_notes.txt | Last accessed: May 16, 2026 9:55 PM | Path: Desktop\
+7. neptune_timeline_summary_UNFINISHED.txt | Last accessed: May 16, 2026 9:30 PM | Path: Documents\Projects\Neptune\
+8. budget_spring2026.txt | Last accessed: May 14, 2026 8:15 PM | Path: Documents\Personal\Finance\
+9. may_2026.txt | Last accessed: May 14, 2026 7:44 PM | Path: Documents\Personal\Journal\
+10. assignment3_ER_diagram_notes.txt | Last accessed: May 14, 2026 4:20 PM | Path: Documents\School\COMP305_Database_Systems\
+11. harbor_tech_letter_of_interest.txt | Last accessed: May 12, 2026 9:18 PM | Path: Documents\Projects\Neptune\
+12. neptune_one_pager_v1_ORIGINAL.txt | Last accessed: May 12, 2026 9:15 PM | Path: Documents\Projects\Neptune\
+13. neptune_one_pager_v2.txt | Last accessed: May 12, 2026 9:12 PM | Path: Documents\Projects\Neptune\
+14. apr_2026.txt | Last accessed: May 12, 2026 8:45 PM | Path: Documents\Personal\Journal\
+15. whistleblower_protections_guide_2025.pdf | Last accessed: May 3, 2026 8:34 PM | Path: Downloads\
+16. IP_law_students_guide.pdf | Last accessed: Apr 8, 2026 5:12 PM | Path: Downloads\
+17. open_source_licensing_explained.pdf | Last accessed: Apr 8, 2026 4:58 PM | Path: Downloads\
+18. software_copyright_FAQ.pdf | Last accessed: May 4, 2026 8:20 PM | Path: Downloads\

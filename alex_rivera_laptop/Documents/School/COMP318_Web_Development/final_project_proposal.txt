@@ -1,0 +1,42 @@
+COMP318 - Web Development
+Final Project Proposal
+Student: Alex Rivera
+Date Submitted: March 20, 2026
+
+PROJECT TITLE: Campus Event Aggregator
+
+DESCRIPTION:
+A web application that collects and displays upcoming events from multiple university departments, student clubs, and external campus-adjacent organizations. Students can browse events by category, date, and location, and can RSVP or add events to their personal calendar.
+
+TECH STACK:
+- Frontend: React 18 with TypeScript
+- Backend: Node.js with Express
+- Database: PostgreSQL
+- Authentication: JWT tokens
+- Deployment: Docker container on university server
+
+FEATURES:
+1. Event listing with search and filter
+2. User registration and login
+3. RSVP functionality
+4. Admin panel for event organizers to submit events
+5. Email notifications (stretch goal)
+6. Mobile-responsive design
+
+TIMELINE:
+Week 1-2: Database schema design, basic Express API
+Week 3-4: React frontend scaffolding, routing
+Week 5-6: Authentication system
+Week 7-8: Integration, testing
+Week 9: Polish, deployment
+Week 10: Final presentation
+
+SIMILAR PROJECTS:
+- Eventbrite (commercial, full-featured)
+- University's existing events page (static, not updated regularly)
+
+This project differs from my existing Neptune work because it's entirely frontend-facing and doesn't involve any sensor data or proprietary logic. The Neptune project wouldn't be appropriate to submit as a class project due to external stakeholder involvement.
+
+EXPECTED GRADE CONTRIBUTION: 40% of final mark
+
+Instructor approval: [PENDING]

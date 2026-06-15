@@ -1,0 +1,99 @@
+SAVED EMAIL DRAFTS
+(Exported from Gmail drafts folder - not sent)
+
+================================================================
+DRAFT 1 - UNSENT
+================================================================
+Date saved: April 16, 2026 11:43 PM
+To: [blank]
+Subject: Neptune project - question about attribution
+
+Hi Jordan,
+
+I wanted to ask about the project overview document you updated.
+In the "Project History" section it now says the project started
+as a collaboration in late 2025. But I started Neptune in June 2025,
+and you joined in February 2026. I just want to make sure the
+history is accurate before we share it with Marcus's team.
+
+Can we get on a call this week to clarify?
+
+Alex
+
+---
+[DRAFT NOT SENT - saved Apr 16 11:43 PM, last edited Apr 17 12:08 AM]
+[Revision note: "too confrontational - rewrite later" - AR]
+
+================================================================
+DRAFT 2 - UNSENT
+================================================================
+Date saved: April 17, 2026 12:22 AM
+To: [blank]
+Subject: Re: Neptune project
+
+Hi Jordan,
+
+Just checking in - I noticed the project history section was updated
+in the overview doc. Could you send me a note about what was changed?
+I want to make sure I have the most current version.
+
+Thanks
+Alex
+
+---
+[DRAFT NOT SENT - saved Apr 17 12:22 AM]
+[Note: "still not right. don't send either version yet." - AR]
+
+================================================================
+DRAFT 3 - UNSENT
+================================================================
+Date saved: May 13, 2026
+To: ren.calloway@harbordistrictlegalaid.org
+Subject: Seeking advice - software project and potential IP concern
+
+Dear Ms. Calloway,
+
+My name is Alex Rivera. I'm a second-year IT student at the university.
+I was referred to you by Professor Emmanuel Okafor, who thought you might
+be able to advise me on a situation involving a personal software project.
+
+I have been developing a data pipeline application called Neptune since
+June 2025. Earlier this year I brought in a collaborator (Jordan Miller)
+to assist with the frontend. Since then, a company called Harbor Tech
+Innovations has expressed interest in acquiring the project.
+
+I have become concerned that the project's history and authorship are being
+misrepresented in communications with Harbor Tech. Specifically, their
+formal letter describes the project as having been "co-developed beginning
+in late 2025" which is not accurate.
+
+I have compiled documentation including git commit history, design documents,
+and version notes that I believe clearly establish my sole authorship of the
+core system prior to any collaboration.
+
+I would like to speak with someone about my options. I'm not looking to make
+accusations - I just want to understand what my rights are before anything
+is formally agreed upon.
+
+I can be reached at alexrivera.student@gmail.com or by phone at 555-0847.
+
+Thank you for your time.
+
+Alex Rivera
+
+---
+[DRAFT NOT SENT - saved May 13 2026]
+[Note: "review this before sending - make sure the facts are right" - AR]
+
+================================================================
+DRAFT 4 - UNSENT
+================================================================
+Date saved: May 16, 2026 11:52 PM
+To: ren.calloway@harbordistrictlegalaid.org
+Subject: Seeking advice - software project and potential IP concern
+
+[IDENTICAL TO DRAFT 3 except subject line changed - appears to be a second attempt]
+
+---
+[DRAFT NOT SENT]
+[This appears to be the last action in the email client before the laptop was last used]

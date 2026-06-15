@@ -1,0 +1,24 @@
+COMP101 - Assignment 2 DRAFT - DO NOT SUBMIT
+Operating System Comparison: Windows vs Linux vs macOS
+
+still working on this need to add more about linux kernel
+also check word count requirement - prof said 400 minimum
+
+---
+
+Operating systems manage hardware resources and provide services for application programs. The three most widely used desktop operating systems are Microsoft Windows, Apple macOS, and various Linux distributions.
+
+Windows remains the dominant OS in enterprise and home environments due to its broad software compatibility and familiar interface. Windows 11 introduced a redesigned taskbar, improved virtual desktop support, and tighter integration with cloud services via OneDrive and Microsoft 365.
+
+macOS, developed by Apple, runs exclusively on Apple hardware. It is built on a UNIX foundation (Darwin kernel) and is known for its polish, stability, and tight hardware-software integration. macOS is popular among creatives and developers working in the Apple ecosystem.
+
+Linux is an open-source kernel used in a wide range of distributions (distros) such as Ubuntu, Fedora, Arch Linux, and Debian. Unlike Windows and macOS, Linux is free to use and modify. It is widely used in servers, development environments, and embedded systems.
+
+[ADD SECTION: file system differences - NTFS vs ext4 vs APFS]
+[ADD SECTION: security model comparison]
+[ADD: citation for usage statistics]
+
+From a student perspective, Windows offers the best compatibility with university software, while Linux provides hands-on learning opportunities for IT students. I personally dual-boot Ubuntu alongside Windows on my laptop for practice.
+
+---
+Last saved: auto-save 11:47 PM March 2 2026

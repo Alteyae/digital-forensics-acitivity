@@ -1,0 +1,33 @@
+--- April 2 ---
+Looked up some things about intellectual property and software co-authorship. It's complicated. The short version is: without a written agreement, contribution to a project can create co-ownership claims, but original authorship still matters. I need to talk to someone who actually knows this stuff.
+
+There's a student legal advice clinic at the university. Going to book an appointment.
+
+--- April 8 ---
+Met with someone at the student legal clinic. A second-year law student (not an actual lawyer obviously). She said my best move is to document everything: original commit dates, when Jordan joined, what was already built vs. what he contributed. She also said if Harbor Tech is going to acquire or license anything, there should be a proper IP assignment agreement that names each contributor's original work.
+
+She gave me a pamphlet on open source licensing and copyright. I asked if I should confront Jordan or Marcus directly. She said "not yet."
+
+--- April 15 ---
+Jordan sent me a revised version of the "Neptune Overview" document. Under the "Project History" section it says the project "began as a collaboration between Jordan Miller and Alex Rivera in late 2025."
+
+Late 2025. That is not accurate. Jordan was not involved until February 2026. I started Neptune in June 2025.
+
+I didn't reply to his message yet. Saved a copy of that document.
+
+--- April 22 ---
+Math midterm was rough. Think I passed.
+
+Didn't work on Neptune today. Couldn't focus.
+
+--- April 28 ---
+Jordan mentioned Harbor Tech might want to move quickly on an acquisition deal. "Before summer." He said this casually over text like it was good news. I haven't agreed to anything. He keeps saying "we" when talking about decisions I haven't been part of.
+
+I made a full backup of the Neptune repository. Local copy, not on any shared platform.
+
+--- April 30 ---
+Not sleeping enough. Worried I'm misreading this whole situation. Maybe Jordan genuinely sees this as an equal partnership and doesn't realize the history is wrong. Maybe Marcus's team just made an error in the letter.
+
+But I keep coming back to: the original one-pager edit. The "late 2025" claim. The schema request before any agreement. These things don't add up.
+
+I need to figure out what to do and I need to do it carefully.

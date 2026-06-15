@@ -1,0 +1,55 @@
+COMP210 Midterm Study Guide - April 2026
+*don't lose this*
+
+OSI MODEL (memorize order!!)
+Layer 7 - Application (HTTP, FTP, SMTP, DNS)
+Layer 6 - Presentation (encryption, compression, SSL/TLS)
+Layer 5 - Session (managing sessions between apps)
+Layer 4 - Transport (TCP, UDP - port numbers live here)
+Layer 3 - Network (IP addresses, routing)
+Layer 2 - Data Link (MAC addresses, switches, frames)
+Layer 1 - Physical (cables, signals, bits)
+
+Mnemonic: "All People Seem To Need Data Processing" (bottom to top reversed)
+Or: "Please Do Not Throw Sausage Pizza Away" (bottom to top)
+
+Common port numbers:
+22 - SSH
+23 - Telnet (insecure!)
+25 - SMTP
+53 - DNS
+80 - HTTP
+110 - POP3
+143 - IMAP
+443 - HTTPS
+3306 - MySQL
+3389 - RDP
+
+Subnetting:
+/24 = 255.255.255.0 = 254 usable hosts
+/25 = 255.255.255.128 = 126 usable hosts
+/26 = 255.255.255.192 = 62 usable hosts
+
+CIDR notation review: IP/prefix where prefix = number of 1s in subnet mask
+
+IPv4 vs IPv6:
+IPv4 = 32-bit address space, ~4.3 billion addresses, mostly exhausted
+IPv6 = 128-bit, essentially unlimited
+
+DNS resolution process:
+1. Check local cache
+2. Query recursive resolver (usually ISP)
+3. Root nameserver
+4. TLD nameserver (.com, .org etc)
+5. Authoritative nameserver → returns IP
+
+TCP vs UDP:
+TCP - connection-oriented, reliable, ordered, slower
+UDP - connectionless, unreliable, fast, used for streaming/gaming/DNS
+
+DHCP:
+DORA process: Discover → Offer → Request → Acknowledge
+
+---
+Exam is April 22nd, 9am, Room 104
+Prof says focus on subnetting and OSI layers

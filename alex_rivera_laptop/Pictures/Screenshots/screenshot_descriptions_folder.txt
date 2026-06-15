@@ -1,0 +1,48 @@
+PICTURES/SCREENSHOTS FOLDER CONTENTS
+[Note: Image files represented as text descriptions for this forensic environment]
+
+screenshot_2025-08-18_neptune_v020_test.png
+  - Shows terminal window with test output for Neptune v0.2.0
+  - Output shows 1000 records processed, 0 errors, avg 48ms latency
+  - Timestamp visible in terminal: Mon Aug 18 20:47:33 2025
+  - VS Code visible in background with neptune-core project open
+
+screenshot_2025-11-coastal_hackathon_certificate.png
+  - Digital certificate image: "Coastal Tech Hackathon - Honorable Mention, Technical Merit"
+  - Recipient: Alex Rivera
+  - Project: "Neptune - Environmental Data Pipeline"
+  - Date: November 22, 2025
+
+screenshot_2026-01-08_new_semester_timetable.png
+  - University course timetable showing Spring 2026 schedule
+  - Courses: COMP101, COMP210, COMP305, COMP318, MATH201
+
+screenshot_2026-02-28_neptune_v040_milestone.png
+  - GitHub actions CI run showing green checkmarks
+  - Test suite: 47/47 passing
+  - Commit message visible: "v0.4.0: 10k payload milestone test - all clear - MILESTONE"
+
+screenshot_2026-03-19_harbor_tech_office_view.png
+  - Photo of view from Harbor Tech Innovations meeting room
+  - Modern office, glass walls, harbor visible through window
+  - Timestamp metadata: 2026-03-19 14:28:07
+
+screenshot_2026-04-15_neptune_overview_v3_history.png
+  - Google Doc showing "Project History" section
+  - Annotated by Alex with red highlight around "late 2025"
+  - Handwritten-style annotation (digital): "THIS IS WRONG - I started June 2025, Jordan joined Feb 2026"
+
+screenshot_2026-05-12_usb_drive_connected.png
+  - Windows file explorer
+  - Shows USB drive "KINGSTON 32GB (E:)" in left nav
+  - Drive contents: empty (newly formatted)
+  - Folder on C: drive visible: Documents/Projects/Neptune/neptune_documentation/
+
+screenshot_2026-05-16_usb_files_transferred.png
+  - Windows file explorer showing USB drive E:
+  - Contents visible: neptune_documentation folder
+  - 6 files listed inside: git_log_export.txt, original_design_v1.txt,
+    prototype_aug2025_notes.txt, hackathon_nov2025_notes.txt,
+    harbor_tech_letter_of_interest.txt, neptune_timeline_summary_UNFINISHED.txt
+  - Total size: 47.3 KB
+  - Timestamp: May 16, 2026 11:37 PM

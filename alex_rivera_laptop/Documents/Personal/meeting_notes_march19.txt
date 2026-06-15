@@ -1,0 +1,46 @@
+Meeting notes - Harbor Tech / Marcus Tan
+March 19, 2026, ~2:30 PM
+Location: Harbor Tech Innovations office (waterfront precinct)
+
+Attendees:
+- Marcus Tan (founder/CEO)
+- Two other people from Harbor Tech (didn't catch their names, one might have been the CTO?)
+- Jordan Miller
+- Alex Rivera
+
+Marcus opened by saying he's been watching the space for a while and
+Neptune is "exactly the kind of lightweight solution" they've been looking for.
+Very flattering, tried not to let it go to my head.
+
+Most of the technical questions came to me:
+- How does the ingestion pipeline handle malformed payloads? (validation layer, rejects with 400)
+- What's the throughput capacity? (tested up to 10k, theoretical much higher with horizontal scaling)
+- Why PostgreSQL over time-series specific DBs like InfluxDB? (familiarity + flexibility + I knew it)
+- What's the authentication model? (session-based now, JWT planned)
+
+Jordan answered the "market positioning" and "business vision" questions.
+He's better at that than me honestly.
+
+Marcus asked about "team structure" - Jordan said "it's the two of us, Alex is the architect."
+That was a nice thing to say.
+
+Near the end Marcus asked for:
+- DB schema
+- Full API docs
+
+Jordan said yes. I said "we can put something together." Which is not the same as yes
+but nobody seemed to notice.
+
+Afterward Jordan and I walked back to campus. He seemed really excited.
+I said "I thought we were going to hold off on sharing the schema?"
+He said "it's just for compatibility assessment, it's fine."
+I didn't push it.
+
+**Action items from meeting:**
+- Send schema and API docs to Marcus (Jordan handling?)
+- Discuss "next steps" with Jordan
+- Think about what "acquisition" would actually mean for me
+
+Note added March 26: Got the Letter of Interest from Marcus today. The wording is off.
+"Co-developed by Jordan Miller and Alex Rivera beginning in late 2025" - this is wrong.
+I need to address this.

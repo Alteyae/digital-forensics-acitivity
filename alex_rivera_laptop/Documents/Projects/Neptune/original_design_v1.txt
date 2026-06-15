@@ -1,0 +1,60 @@
+PROJECT NEPTUNE - Initial Design Document
+Author: Alex Rivera
+Created: June 15, 2025
+Version: 0.1 (pre-alpha)
+
+---
+
+OVERVIEW
+
+Neptune is a lightweight data pipeline designed for real-time ingestion, processing, and visualization of environmental sensor data, with an initial focus on maritime and waterway monitoring applications.
+
+The core idea grew from a summer placement observation: existing solutions for small-scale environmental monitoring are either too expensive (enterprise platforms) or too limited (hobbyist tools). Neptune aims to fill the gap.
+
+---
+
+CORE COMPONENTS (planned)
+
+1. Ingestion Layer
+   - Accepts data streams from IoT sensor endpoints (REST or MQTT)
+   - Validates incoming payload format
+   - Queues payloads for processing
+
+2. Processing Pipeline
+   - Normalizes sensor data to internal schema
+   - Applies configurable transformation rules
+   - Stores processed records to database
+
+3. Storage Layer
+   - PostgreSQL backend
+   - Time-series optimized schema
+   - Audit trail on all writes
+
+4. Visualization Layer (later)
+   - Web dashboard (React)
+   - Real-time graph rendering
+   - Alert threshold configuration
+
+---
+
+INITIAL TECH STACK DECISIONS
+
+Backend: Node.js (familiar, fast prototyping, good library ecosystem for data streams)
+Database: PostgreSQL
+API: REST initially, may add WebSockets for real-time push
+Frontend: React (later, not priority yet)
+Auth: Session-based initially, JWT later
+
+---
+
+WHY "NEPTUNE"?
+Named after the Roman god of the sea. The initial use case is maritime water quality monitoring. Also I just liked the name.
+
+---
+
+PERSONAL NOTE
+This is a personal project. Not affiliated with any course (though I may use concepts from coursework). Not currently collaborating with anyone. All code will be my own work unless I decide otherwise later.
+
+I want to see how far I can take this on my own first.
+
+- Alex, June 15, 2025

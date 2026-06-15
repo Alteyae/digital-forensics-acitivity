@@ -1,0 +1,31 @@
+--- March 4 ---
+Jordan asked me to "prepare a one-pager on Neptune's architecture and market position." Market position? We're two students with a prototype. I said sure, I guess, and asked what it was for. He said "just good practice for pitching." Okay.
+
+--- March 11 ---
+Wrote the one-pager. Spent more time on it than I meant to. Jordan reviewed it and made some edits. Mostly fine - he polished the language - but he changed "developed by Alex Rivera" in the header to "developed by Rivera and Miller." I brought it up and he said "well we're collaborators." I let it go. I don't know why I let it go.
+
+--- March 14 ---
+Jordan set up a meeting for next week with someone called Marcus Tan. Said he's the founder of a company called Harbor Tech Innovations. That's a real company - looked it up. They do maritime and environmental data monitoring. I can see why Neptune would be relevant to them.
+
+Excited but also nervous. Never presented to an actual company before.
+
+--- March 19 ---
+The meeting with Marcus Tan happened today. Marcus was professional, asked a lot of technical questions - mostly directed at me because I know the backend. Jordan did most of the talking about "vision" and "potential applications." Marcus seemed genuinely interested.
+
+Afterward, Marcus asked for the DB schema and API documentation. Jordan said sure. I hesitated but went along with it.
+
+Later I thought: why does he need the schema already? We haven't even discussed terms. This seems premature.
+
+--- March 26 ---
+Marcus's team sent back a "Letter of Interest" that Jordan forwarded to me. It mentions "joint development" and refers to the project as "the Neptune system, co-developed by Jordan Miller and Alex Rivera." Jordan's name is first.
+
+Is that significant? Am I being paranoid?
+
+Going to keep a copy of everything from now on. Just in case.
+
+--- March 30 ---
+Didn't sleep well. Keep thinking about the wording in that letter.
+
+I started the Neptune project in June 2025. I have the original commit history on my GitHub. Jordan joined in February 2026. That's eight months later.
+
+I need to understand what "co-developer" means legally in the context of IP.

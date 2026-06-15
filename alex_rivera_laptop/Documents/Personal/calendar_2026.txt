@@ -1,0 +1,67 @@
+CALENDAR EXPORT - Alex Rivera
+Source: Google Calendar sync (exported May 18, 2026 - forensic acquisition)
+Calendars included: Personal, University, Work (IT Help Desk)
+
+================================================================
+JANUARY 2026
+================================================================
+Jan 12 (Mon) - First day of semester
+Jan 13 (Tue) 10:00 - COMP101 Lecture, Bldg C Room 204
+Jan 14 (Wed) 10:00 - COMP210 Lecture, Bldg A Room 101
+Jan 13-16 (recurring) - See weekly schedule note
+Jan 19 (Mon) - Public holiday, no classes
+Jan 21 (Wed) 3:30 PM - Coffee with Jordan Miller [campus cafe]
+Jan 31 (Sat) - COMP101 Assignment 1 due 11:59 PM
+
+================================================================
+FEBRUARY 2026
+================================================================
+Feb 01-02 (Sat-Sun) - Neptune repo handoff w/ Jordan
+Feb 13 (Fri) 11:59 PM - COMP101 Assignment 2 due
+Feb 14 (Sat) - Valentine's Day [nothing planned]
+Feb 18 (Wed) - [blocked: mid-semester break begins]
+Feb 25 (Wed) 09:00 - COMP210 Lab 2 (Wireshark)
+
+================================================================
+MARCH 2026
+================================================================
+Mar 08 (Sun) 7:00 PM - Priya study session (networking)
+Mar 10 (Tue) 23:59 - COMP210 Lab 2 report due
+Mar 14 (Sat) 2:00 PM - Call w/ Jordan re: Harbor Tech intro
+Mar 19 (Thu) 2:30 PM - MEETING: Harbor Tech Innovations [waterfront precinct office]
+  Added note: "dress ok, don't wear the gaming hoodie"
+Mar 20 (Fri) - COMP318 final project proposal due
+Mar 26 (Thu) - Received LOI from Marcus Tan
+Mar 28 (Sat) - Started DB schema notes for Neptune
+Mar 30 (Mon) 7:00 PM - IT Help Desk training refresh
+
+================================================================
+APRIL 2026
+================================================================
+Apr 01 (Wed) 11:59 PM - COMP305 Assignment 3 due
+Apr 08 (Wed) 2:00 PM - Student Legal Clinic appointment [Student Services Bldg, Room 108]
+Apr 09 (Thu) 11:59 PM - MATH201 Homework Week 8 due
+Apr 15 (Wed) - Cancel trial sub [DONE]
+Apr 22 (Wed) 9:00 AM - MATH201 Midterm Exam, Room 104
+Apr 28 (Tue) - Neptune v0.4 backup + git log export
+Apr 30 (Thu) 11:59 PM - Journal backup to external drive
+
+================================================================
+MAY 2026
+================================================================
+May 01 (Fri) - Rent due [paid]
+May 05 (Tue) - Talked to Prof Okafor after class re: IP question
+May 06-08 - USB drive + battery delivery expected
+May 09 (Sat) - USB drive received (confirmed delivery)
+May 12 (Tue) - File organization session, Neptune documentation
+May 13 (Wed) - Draft email to Ren Calloway [not sent]
+May 14 (Thu) - IT Help Desk shift 2:00-5:00 PM
+May 15 (Fri) - Received [MESSAGE - see journal may_2026.txt]
+May 16 (Sat) - File transfer to USB [planned]
+May 17 (Sun) 7:30 PM - [waterfront meeting]
+  [calendar entry created May 16, text: "7:30pm waterfront, near the old crane pier"]
+  [no further detail]
+
+================================================================
+[No further calendar entries]
+================================================================

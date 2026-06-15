@@ -1,0 +1,26 @@
+SCREENSHOT LOG (descriptions of image files on this desktop)
+[Note for forensic examiner: actual image files are represented as descriptive text records. In a live acquisition these would be .PNG/.JPG files.]
+
+---
+Screenshot_2026-01-15_143022.png
+Content: Browser showing GitHub repository page for "neptune-core" - shows 34 commits, created June 12, 2025. Repository description: "Maritime environmental monitoring data pipeline - personal project." Owner shown as "alexr-dev". No collaborators listed.
+
+---
+Screenshot_2026-02-17_210544.png
+Content: Discord message thread. Username "jmill_dev" (Jordan): "hey btw showed neptune to someone today, think they might have some interesting ideas about it." Alex's reply: "who?" Jordan: "contact from last summer, don't worry about it yet, will fill u in." Alex: "ok let me know"
+
+---
+Screenshot_2026-03-19_174311.png
+Content: Email from marcus.tan@harbortechinnovations.com to alexrivera.student@gmail.com and jmiller.dev@gmail.com. Subject: "Following up on today's meeting - Neptune." Body begins: "Great meeting you both today. As discussed, we're very interested in exploring what Neptune could do in a commercial context. Could you share the API documentation and database schema? We'd like our technical team to do a preliminary compatibility assessment..." [email continues offscreen]
+
+---
+Screenshot_2026-04-15_093847.png
+Content: Google Doc titled "Neptune - Project Overview v3" showing the "Project History" section. Text visible: "Neptune began as a collaboration between Jordan Miller and Alex Rivera in late 2025, with the goal of building a lightweight..." The rest is cropped.
+
+---
+Screenshot_2026-05-09_184422.png
+Content: Text message thread. Jordan: "hey have you looked at the acquisition outline yet?" Alex: "what outline? I haven't received anything" Jordan: "Marcus sent it to our team email" Alex: "we don't have a team email??" Jordan: "oh he might have just cc'd me, I'll forward" [no subsequent message shown]
+
+---
+Screenshot_2026-05-12_223015.png
+Content: File explorer showing a folder called "neptune_documentation" inside Documents/Projects/Neptune. Several files visible including git_log_export.txt, original_design_v1.txt, prototype_aug2025.txt. A USB drive labeled "KINGSTON 32GB" is shown in the left panel as drive E:.

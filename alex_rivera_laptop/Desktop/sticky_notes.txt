@@ -1,0 +1,44 @@
+========================================
+STICKY NOTE 1 (yellow)
+========================================
+buy oat milk
+call mom sunday
+return library book (OVERDUE)
+Priya - study session Thursday 6pm
+
+========================================
+STICKY NOTE 2 (blue)
+========================================
+IT Help Desk shift:
+Mon 10-2
+Wed 10-2
+Fri 2-5
+
+========================================
+STICKY NOTE 3 (green)
+========================================
+git commit -m "fix: buffer flush latency on large payloads"
+git push origin main
+check CI passes
+
+========================================
+STICKY NOTE 4 (pink) - partially covered
+========================================
+USB - [text obscured]
+Ren C - Harbor Dist
+dont forget the [torn]
+
+========================================
+STICKY NOTE 5 (yellow)
+========================================
+passwords to change:
+- email (used same one too many places)
+- github
+DO NOT WRITE PASSWORDS HERE, ALEX
+
+========================================
+STICKY NOTE 6 (orange)
+========================================
+May 17 7:30
+waterfront
+"come alone" - weird but ok

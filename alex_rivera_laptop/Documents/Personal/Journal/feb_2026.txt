@@ -1,0 +1,21 @@
+--- February 3 ---
+Jordan and I spent Saturday going through the Neptune codebase. He's actually really sharp - picked up the data pipeline logic faster than I expected. We wrote a rough "collaboration agreement" in a Google Doc. Mostly just says we're equal contributors for now, responsibilities are split: I own the backend and data architecture, Jordan takes the frontend and UI layer.
+
+We did not write anything about ownership or IP. I didn't think about it at the time.
+
+--- February 11 ---
+Valentine's Day on Saturday. Nothing to report romantically. Maya and I barely talk now.
+
+Neptune: Jordan pushed his first real commit - a cleaned up version of the dashboard UI. It looks genuinely good. Better than what I had.
+
+--- February 17 ---
+Jordan mentioned he'd "shown the project to someone" who was interested. He was being kind of vague. I asked who and he said "a contact from an internship." Didn't push it. Probably nothing.
+
+--- February 25 ---
+Big milestone: Neptune prototype successfully processed 10,000 synthetic data points end to end with no errors. I'm really proud of this. Sent Jordan the test results. He replied "amazing, we should talk about next steps."
+
+I put the milestone in my notes. Version 0.4.0 is stable.
+
+--- February 28 ---
+Got an 88 on the Wireshark lab. Happy with that.
+Jordan's been pushing a lot of commits to the frontend. Some of them changed variable names and file structures I established. Not sure I like that but I don't want to be controlling. It's a collaboration.

@@ -1,0 +1,32 @@
+DB schema planning for Neptune backend
+Alex - started this March 28
+
+This is rough, just thinking through the data model.
+
+Tables needed:
+- users (id, username, email, password_hash, role, created_at)
+- sessions (session_id, user_id, ip_address, created_at, expires_at)
+- data_packets (id, user_id, timestamp, payload_type, raw_data, processed)
+- audit_log (id, user_id, action, target_table, target_id, timestamp)
+
+The audit_log table is important - need to track every write operation.
+Jordan kept saying we don't need it for the demo but I think it's essential.
+Without it we can't reconstruct what happened if something goes wrong.
+
+Authentication flow:
+1. User submits credentials
+2. bcrypt verify password
+3. Generate session token (UUID v4)
+4. Store in sessions table with 24h expiry
+5. Return session token in HttpOnly cookie
+
+Role system:
+- admin: full access
+- contributor: can add/edit data packets
+- viewer: read only
+
+NOTE: Marcus's team asked about the schema during that meeting in March.
+I shared a simplified version but didn't give them the full thing.
+Not sure why they needed it, they said it was for "compatibility assessment."
+
+Re-reading this now and that was kind of a strange request.

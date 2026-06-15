@@ -1,0 +1,20 @@
+--- January 6 ---
+New semester starts tomorrow. Feeling okay about it. Signed up for four courses plus I want to keep working on the Neptune prototype this term. Had a good break, spent Christmas back home with mom and Tio Carlos. Ate too much. No regrets.
+
+--- January 12 ---
+First week done. COMP318 looks interesting. The prof actually knows what he's talking about unlike last semester's COMP220 guy who just read off slides. Math is going to be hard. Need to stay on top of it from week 1.
+
+Got back to the Neptune codebase tonight. The data ingestion module still has that weird latency issue when payloads exceed 4KB. Going to look at it this weekend.
+
+--- January 19 ---
+Jordan reached out. Haven't talked much since the hackathon in November. He wants to "reconnect and talk about Neptune." I'm open to it - he had some good ideas during the hackathon even if we didn't really finish anything properly.
+
+Met him for coffee at the campus cafe Tuesday. He's enthusiastic. Thinks Neptune has real commercial potential. I said I'd think about collaborating more seriously. He wants to formalize something.
+
+--- January 24 ---
+Resolved the 4KB latency issue - it was a buffer flush problem, embarrassingly simple fix. Committed the patch.
+
+Thinking more about Jordan's offer. On one hand, a collaborator with more frontend experience would help. On the other hand, I've been building this alone for seven months. Mixed feelings. Mom says to trust my gut.
+
+--- January 31 ---
+Agreed to bring Jordan in as a co-contributor on Neptune. We're going to do a proper handoff of the repo structure this weekend. He suggested we write up some kind of informal agreement about roles and responsibilities. I think that's a good idea actually.

@@ -1,0 +1,21 @@
+Textbook spending tracker 2026
+
+January:
+- COMP318 textbook "Web Development with React" - $74 (Campus Bookstore)
+- MATH201 "Discrete Mathematics" Rosen 8th ed - $89 (ordered online, used copy)
+- COMP210 lab manual - $18 (photocopied, split with Priya - paid her $9)
+
+February:
+- No new books this month
+- Printed 40 pages of lecture slides - $4 at library
+
+March:
+- COMP305 supplementary reading (PDF, free from course page)
+
+April:
+- Nothing yet
+
+Total spent on textbooks so far: $190
+
+TIP for future me: check library reserves first before buying
+Also the online PDF versions are usually cheaper but profs hate it when you use your laptop during class

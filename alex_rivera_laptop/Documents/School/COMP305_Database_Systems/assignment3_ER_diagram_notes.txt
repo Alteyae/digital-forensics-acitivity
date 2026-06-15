@@ -1,0 +1,54 @@
+COMP305 - Database Systems
+Assignment 3: ER Diagram - University Enrollment System
+Alex Rivera - April 4, 2026
+
+Entities identified:
+- STUDENT (StudentID, Name, Email, DOB, EnrolmentDate)
+- COURSE (CourseID, Title, Credits, Department)
+- INSTRUCTOR (InstructorID, Name, Email, Department)
+- ENROLLMENT (EnrollmentID, Grade, Semester) -- relationship entity
+
+Relationships:
+- STUDENT enrolls in COURSE (many-to-many, resolved via ENROLLMENT)
+- INSTRUCTOR teaches COURSE (one-to-many)
+- COURSE belongs to DEPARTMENT (many-to-one)
+
+Cardinality notes:
+- One student can enroll in many courses
+- One course can have many students
+- One instructor can teach many courses (but a course section has one primary instructor)
+
+Normalization:
+Currently in 1NF. Need to check for partial dependencies (2NF).
+ENROLLMENT table looks good - all attributes depend on full composite key (StudentID + CourseID + Semester).
+
+SQL CREATE TABLE examples:
+
+CREATE TABLE Student (
+    StudentID INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(100) NOT NULL,
+    Email VARCHAR(255) UNIQUE NOT NULL,
+    DOB DATE,
+    EnrolmentDate DATE DEFAULT CURRENT_DATE
+);
+
+CREATE TABLE Course (
+    CourseID VARCHAR(10) PRIMARY KEY,
+    Title VARCHAR(200) NOT NULL,
+    Credits INT CHECK (Credits BETWEEN 1 AND 6),
+    Department VARCHAR(100)
+);
+
+CREATE TABLE Enrollment (
+    EnrollmentID INT PRIMARY KEY AUTO_INCREMENT,
+    StudentID INT,
+    CourseID VARCHAR(10),
+    Semester VARCHAR(20),
+    Grade CHAR(2),
+    FOREIGN KEY (StudentID) REFERENCES Student(StudentID),
+    FOREIGN KEY (CourseID) REFERENCES Course(CourseID)
+);
+
+TODO: draw actual ER diagram in draw.io, export as PNG
+TODO: add proper indexing discussion
+Due Friday 11:59 PM

@@ -1,0 +1,10 @@
+links i saved to read later (never do)
+
+https://www.freecodecamp.org/news/typescript-generics-explained/
+https://css-tricks.com/a-complete-guide-to-flexbox/
+https://ohshitgit.com/ (useful when i mess up git)
+https://explainshell.com/
+article about PostgreSQL indexing best practices - lost the link
+https://www.youtube.com/watch?v=dQw4w9WgXcQ (lol)
+nodejs stream documentation
+reddit thread about bcrypt vs argon2 for password hashing

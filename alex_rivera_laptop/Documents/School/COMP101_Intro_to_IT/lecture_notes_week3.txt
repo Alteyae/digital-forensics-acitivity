@@ -1,0 +1,43 @@
+COMP101 Week 3 Lecture Notes - Binary and Data Representation
+Date: February 19, 2026
+
+Prof: Dr. Huang
+Room: Building C, Lab 204
+
+---
+
+Binary number system - base 2 (only 0s and 1s)
+Decimal is base 10
+
+Converting decimal to binary:
+128 / 2 = 64 r 0
+64 / 2 = 32 r 0
+32 / 2 = 16 r 0
+...keep going
+
+Example: 25 in binary
+25 = 16 + 8 + 1
+= 11001
+
+Hexadecimal - base 16
+Uses 0-9 and A-F
+Easier to read than long binary strings
+Used a lot in memory addresses and color codes
+
+ASCII - assigns numbers to characters
+'A' = 65 decimal = 01000001 binary
+'a' = 97
+
+Unicode - extension of ASCII for international characters
+UTF-8 is the most common encoding on the web
+
+Data sizes:
+1 bit = smallest unit
+8 bits = 1 byte
+1024 bytes = 1 kilobyte (KB) [technically kibibyte]
+1024 KB = 1 MB
+1024 MB = 1 GB
+
+** EXAM TIP: know how to convert between decimal and binary for numbers up to 255 **
+
+Homework: chapter 3 exercises 1-10

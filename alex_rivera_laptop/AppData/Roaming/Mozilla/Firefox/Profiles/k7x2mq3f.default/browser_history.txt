@@ -1,0 +1,71 @@
+FIREFOX BROWSER HISTORY EXPORT
+Profile: k7x2mq3f.default
+Export Date: [forensic acquisition - May 18, 2026]
+Format: Date | Time | URL | Page Title
+
+================================================================
+SELECTED HISTORY - LAST 90 DAYS (filtered from full 14,847 entry log)
+Showing entries with potential investigative relevance, plus representative normal browsing
+================================================================
+
+--- JANUARY 2026 ---
+Jan 05 09:12 | university.edu/student-portal | Student Portal Login
+Jan 05 09:14 | university.edu/courses/spring2026 | Enrolled Courses - Spring 2026
+Jan 08 10:03 | code.visualstudio.com/download | Download Visual Studio Code
+Jan 08 10:47 | nodejs.org/en/download | Node.js Downloads
+Jan 12 20:15 | github.com/alexr-dev/neptune-core | alexr-dev/neptune-core - GitHub
+Jan 14 18:30 | youtube.com/watch?v=[ID] | PostgreSQL Full Course for Beginners
+Jan 19 22:11 | discord.com/app | Discord
+Jan 22 14:05 | stackoverflow.com/questions/[ID] | node.js - How to handle backpressure in writable streams
+Jan 28 21:40 | spotify.com | Spotify Web Player
+
+--- FEBRUARY 2026 ---
+Feb 02 19:34 | github.com/alexr-dev/neptune-core/graphs/contributors | neptune-core - Contributors
+Feb 03 14:22 | github.com/settings/access | GitHub - Repository Access Settings
+Feb 09 23:05 | github.com/jmiller-dev | jmiller-dev - GitHub Profile
+Feb 11 20:18 | mdn.mozilla.org/en-US/docs/Web/API/WebSocket | WebSocket - Web APIs | MDN
+Feb 17 21:44 | discord.com/app | Discord
+Feb 24 20:55 | npmjs.com/package/mqtt | mqtt - npm
+Feb 28 22:10 | github.com/alexr-dev/neptune-core/releases | Releases - neptune-core
+
+--- MARCH 2026 ---
+Mar 03 17:44 | linkedin.com/in/marcus-tan-harbor | Marcus Tan - LinkedIn
+Mar 04 18:02 | harbortechinnovations.com | Harbor Tech Innovations - Home
+Mar 04 18:05 | harbortechinnovations.com/about | Harbor Tech Innovations - About Us
+Mar 04 18:08 | harbortechinnovations.com/harborsense | HarborSense Platform
+Mar 09 09:11 | wireshark.org/download.html | Wireshark Download
+Mar 10 23:50 | university.edu/portal/grades | Grade Portal
+Mar 14 22:30 | maps.google.com/?q=harbor+tech+innovations | Google Maps - Harbor Tech Innovations
+Mar 19 09:05 | university.edu/student-portal | Student Portal
+Mar 19 16:55 | gmail.com | Gmail
+Mar 19 17:30 | docs.google.com/document/[ID] | Neptune - Project Overview v1 - Google Docs
+Mar 26 19:44 | gmail.com | Gmail - Harbor Tech letter received
+Mar 30 23:12 | reddit.com/r/legaladvice/comments/[ID] | Can a collaborator claim co-authorship of software I wrote before they joined? - r/legaladvice
+
+--- APRIL 2026 ---
+Apr 01 20:15 | en.wikipedia.org/wiki/Intellectual_property | Intellectual property - Wikipedia
+Apr 02 21:33 | law.cornell.edu/wex/copyright | Copyright - LII / Legal Information Institute
+Apr 02 21:58 | copyright.gov/help/faq/faq-general.html | Copyright FAQs - U.S. Copyright Office
+Apr 08 14:20 | university.edu/services/legal-clinic | Student Legal Advice Clinic
+Apr 08 16:45 | creativecommons.org/licenses | About The Licenses - Creative Commons
+Apr 08 17:00 | choosealicense.com | Choose an open source license
+Apr 15 09:22 | docs.google.com/document/[ID] | Neptune - Project Overview v3 - Google Docs
+Apr 22 08:55 | university.edu/exams/math201 | MATH201 Exam Information
+Apr 28 21:40 | github.com/alexr-dev/neptune-core | alexr-dev/neptune-core
+
+--- MAY 2026 ---
+May 03 20:11 | aclu.org/know-your-rights/whistleblower-protections | Whistleblower Protections - ACLU
+May 03 20:34 | whistleblower.gov | Whistleblower Protection Program
+May 04 19:22 | eff.org/issues/know-your-rights | Know Your Rights - Electronic Frontier Foundation
+May 04 20:15 | nolo.com/legal-encyclopedia/software-copyright.html | Software Copyright - Nolo
+May 05 17:30 | university.edu/faculty/okafor | Prof. Emmanuel Okafor - Staff Profile
+May 09 18:45 | gmail.com | Gmail
+May 09 19:11 | discord.com/app | Discord
+May 12 14:33 | docs.google.com/document/[ID] | Neptune - Project Overview v3 - Google Docs [READ ONLY]
+May 12 20:05 | github.com/alexr-dev/neptune-core/commits | Commits - neptune-core
+May 15 22:30 | gmail.com | Gmail - new message
+May 16 09:15 | maps.google.com/?q=waterfront+district | Google Maps - Waterfront District
+May 16 09:18 | google.com/search?q=Ren+Calloway+Harbor+District+Legal+Aid | Google Search
+May 16 19:44 | harbordistrictlegalaid.org | Harbor District Legal Aid - Home
+May 16 20:01 | harbordistrictlegalaid.org/contact | Contact Us - Harbor District Legal Aid
+May 16 23:55 | gmail.com | Gmail [LAST RECORDED SESSION]

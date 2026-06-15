@@ -1,0 +1,24 @@
+PERSONAL PORTFOLIO - ABOUT ME DRAFT
+(haven't actually built the site yet, just wrote the copy)
+
+Hi, I'm Alex Rivera - a second-year Information Technology student with a passion for backend systems, data pipelines, and building things that work reliably.
+
+I grew up near the coast and developed an interest in environmental tech after spending time around working harbors as a kid. When I'm not studying, I work on personal projects that combine my technical interests with real-world problems.
+
+Currently I'm building Neptune, a personal project that processes real-time sensor data for maritime environmental monitoring. It started as a way to learn Node.js and PostgreSQL properly, but has grown into something I'm genuinely proud of.
+
+Technical skills:
+- Languages: JavaScript/TypeScript, Python, SQL, some C, HTML/CSS
+- Backend: Node.js, Express
+- Databases: PostgreSQL, basic MySQL
+- Tools: Git, Docker (learning), Wireshark, VS Code
+- OS: Windows (daily), Ubuntu (dual boot practice)
+
+I work part-time at the university IT Help Desk, which has given me solid troubleshooting skills and an appreciation for the users who are just trying to get things done.
+
+I'm looking for internship opportunities in backend development, data engineering, or environmental tech for summer 2026.
+
+Contact: alexrivera.student@gmail.com
+
+---
+[portfolio site itself: never started. might use React for it, might just use plain HTML. low priority]

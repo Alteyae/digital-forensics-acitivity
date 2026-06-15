@@ -1,0 +1,61 @@
+PROJECT NEPTUNE - TIMELINE AND AUTHORSHIP SUMMARY
+Prepared by: Alex Rivera
+Date started: May 12, 2026
+Status: DRAFT - INCOMPLETE
+
+PURPOSE OF THIS DOCUMENT:
+To create a clear factual record of the origins and development of Project Neptune for the purpose of establishing authorship and contribution history. This is NOT an accusation document. This is a factual record.
+
+---
+
+SECTION 1: PROJECT ORIGINS
+
+Neptune was conceived and initiated by Alex Rivera in June 2025 as a personal independent project.
+
+The project was not assigned by a university course.
+The project was not developed on university resources (all work done on personal laptop and personal GitHub account).
+The project was not collaborative at the time of inception.
+
+Evidence of origins:
+- First git commit dated June 13, 2025 (see git_log_export.txt)
+- Initial design document dated June 15, 2025 (see original_design_v1.txt)
+- Version 0.2.0 milestone achieved August 18, 2025, before any collaboration
+
+---
+
+SECTION 2: JORDAN MILLER'S INVOLVEMENT
+
+Jordan Miller was added as a repository collaborator on February 3, 2026.
+
+Prior to that date, Jordan Miller made no commits to the repository.
+
+The "collaboration agreement" (informal, not legally binding) was discussed on approximately January 31, 2026 and established the following division:
+- Alex Rivera: backend, data architecture, database layer
+- Jordan Miller: frontend, UI/dashboard
+
+No written agreement was produced regarding IP ownership, authorship credit, or financial arrangements.
+
+---
+
+SECTION 3: HARBOR TECH INNOVATIONS
+
+[NOTE TO SELF: finish this section. Include:
+- date of first contact (Jordan introduced in February?)
+- date of meeting (March 19)
+- what was shared (schema, one-pager)
+- the letter wording issue
+- the acquisition outline I never received]
+
+---
+
+SECTION 4: CONCERNS
+
+[NOTE TO SELF: be factual here, don't sound paranoid. Just state what was changed and when.]
+
+Items of concern:
+1. One-pager edit: "developed by Alex Rivera" changed to "developed by Rivera and Miller" - March 11
+2. Project history rewritten to say "late 2025" collaboration - April 15
+3. Acquisition outline sent to unknown "team email" without my knowledge - May 9
+4.
+
+[document ends here - not finished]

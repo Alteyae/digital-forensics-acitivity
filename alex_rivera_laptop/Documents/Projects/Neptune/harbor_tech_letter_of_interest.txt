@@ -1,0 +1,35 @@
+HARBOR TECH INNOVATIONS
+Letter of Interest
+Issued: March 25, 2026
+
+To: Jordan Miller, Alex Rivera (Neptune Development Team)
+From: Marcus Tan, Founder & CEO, Harbor Tech Innovations
+
+Subject: Expression of Interest in Neptune Data Pipeline System
+
+Dear Jordan and Alex,
+
+Following our productive meeting on March 19, we are pleased to express formal interest in the Neptune system as a candidate for acquisition or exclusive licensing by Harbor Tech Innovations.
+
+As discussed, Neptune's lightweight architecture and real-time data processing capabilities align strongly with our operational needs in maritime environmental monitoring. Our technical team has conducted a preliminary review of the materials shared and identified significant potential for integration with our existing HarborSense platform.
+
+We propose to move forward with:
+(a) A technical due diligence process (estimated 3-4 weeks)
+(b) Negotiation of terms for either full acquisition or an exclusive commercial license
+(c) A potential partnership arrangement retaining the co-developers as consultants
+
+In preparation for due diligence, we request:
+- Full source code access (read-only, via private repository invitation)
+- Complete API and database documentation
+- Any existing contracts, partnership agreements, or third-party commitments relating to Neptune
+
+We understand the Neptune system was co-developed by Jordan Miller and Alex Rivera beginning in late 2025 and represents approximately six months of collaborative development.
+
+We look forward to your response. Please direct further correspondence to myself and our legal team.
+
+Warm regards,
+
+Marcus Tan
+Founder & CEO
+Harbor Tech Innovations
+marcus.tan@harbortechinnovations.com

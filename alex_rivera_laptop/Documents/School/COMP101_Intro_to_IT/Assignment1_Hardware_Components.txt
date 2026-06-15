@@ -1,0 +1,32 @@
+COMP101 - Introduction to Information Technology
+Assignment 1: Hardware Components Essay
+Student: Alex Rivera | Student ID: 20240847
+Due: February 14, 2026
+Submitted: February 13, 2026
+
+---
+
+QUESTION: Describe the primary hardware components of a modern personal computer and explain how they interact.
+
+---
+
+A modern personal computer is made up of several interdependent hardware components that work together to process, store, and communicate information. The central processing unit (CPU) acts as the brain of the system, executing instructions and performing calculations. Modern CPUs contain multiple cores that allow them to handle several tasks simultaneously, a concept known as parallel processing.
+
+The motherboard serves as the central hub that connects all components. It houses the CPU socket, RAM slots, expansion card slots (PCIe), and provides connections for storage devices and peripherals. The BIOS/UEFI firmware stored on the motherboard initialises the hardware during startup.
+
+Random Access Memory (RAM) provides fast, temporary storage for data that the CPU is actively using. Unlike storage drives, RAM loses its contents when power is removed, which is why it is called volatile memory. A typical student laptop in 2026 ships with 16 GB of DDR5 RAM.
+
+Storage devices such as solid-state drives (SSDs) provide non-volatile storage for the operating system, applications, and user data. SSDs use NAND flash memory and are significantly faster than the older hard disk drives (HDDs) that used spinning magnetic platters.
+
+The GPU (Graphics Processing Unit) handles rendering of visual output. Dedicated GPUs have their own VRAM, while integrated GPUs share system RAM. For most student tasks, an integrated GPU is sufficient.
+
+Input and output devices (keyboard, mouse, monitor, speakers) allow the user to interact with the computer and receive output.
+
+Together, these components form a system where the CPU reads instructions from storage, loads working data into RAM, performs calculations, and outputs results to the display or writes back to storage.
+
+Word Count: 267
+
+---
+References:
+- Patterson, D. & Hennessy, J. (2021). Computer Organization and Design. Morgan Kaufmann.
+- Textbook Chapter 2: "Inside the Machine"
